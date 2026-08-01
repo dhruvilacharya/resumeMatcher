@@ -1,3 +1,0 @@
-k9Vej71rbayMvmk3
-
-mongodb+srv://dhruvilacharya3007_db_user:k9Vej71rbayMvmk3@resumematcher.m63rzpv.mongodb.net/
