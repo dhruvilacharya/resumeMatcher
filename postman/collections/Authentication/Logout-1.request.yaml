@@ -1,6 +1,0 @@
-$kind: http-request
-name: Logout
-description: ""
-url: "{{base_url}}/api/auth/logout"
-method: GET
-order: 1365252120749367
